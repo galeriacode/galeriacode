@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @galeriacode
+- 👋 Hi, I’m @karriex
 - 👀 I’m interested in ... programming!
 - 🌱 I’m currently learning ... proggraming applications!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... galeriahub@protonmail.com
+- 📫 How to reach me ... galeriawashere@protonmail.com
 
 <!---
 galeriacode/galeriacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
